@@ -56,4 +56,4 @@ reorder_point2 = calculate_reorder_point(product2, 1, 5)
 generate_reports(warehouse.products)
 
 # User interaction
-user_interaction(warehouse.products, "SKU002"
+user_interaction(warehouse.products, "SKU002")
