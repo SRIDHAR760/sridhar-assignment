@@ -1,4 +1,3 @@
- Import necessary libraries
 import requests
 
 # API key for OpenWeatherMap
